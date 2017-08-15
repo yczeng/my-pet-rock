@@ -22,5 +22,3 @@ with open('jokes.txt') as f:
 jokes = [x.strip() for x in content]
 
 display_joke(jokes)
-
-
