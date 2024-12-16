@@ -14,5 +14,5 @@ You make me squirt like a geyser!
 I've loved you since the stone age.
 ```
 
-# how to be helpful
+### how to be helpful
 be funny and send a pull request
